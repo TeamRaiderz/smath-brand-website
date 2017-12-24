@@ -20,7 +20,7 @@ if(isset($_POST['submit'])){
 	}
 
 } else {
-	echo "<p> Please press submit, to submit the contact form. </p>";
+	echo "<p> Please press submit to submit the contact form. </p>";
 }
 
 header('location: ./#contact');
